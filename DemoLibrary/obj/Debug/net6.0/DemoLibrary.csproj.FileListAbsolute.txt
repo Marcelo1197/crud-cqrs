@@ -1,0 +1,12 @@
+C:\Proyectos\backend\aplicando_conceptos\Cqrs_Mediatr\MediatRDemo\DemoLibrary\bin\Debug\net6.0\DemoLibrary.deps.json
+C:\Proyectos\backend\aplicando_conceptos\Cqrs_Mediatr\MediatRDemo\DemoLibrary\bin\Debug\net6.0\DemoLibrary.dll
+C:\Proyectos\backend\aplicando_conceptos\Cqrs_Mediatr\MediatRDemo\DemoLibrary\bin\Debug\net6.0\DemoLibrary.pdb
+C:\Proyectos\backend\aplicando_conceptos\Cqrs_Mediatr\MediatRDemo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.csproj.AssemblyReference.cache
+C:\Proyectos\backend\aplicando_conceptos\Cqrs_Mediatr\MediatRDemo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\backend\aplicando_conceptos\Cqrs_Mediatr\MediatRDemo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\Proyectos\backend\aplicando_conceptos\Cqrs_Mediatr\MediatRDemo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.AssemblyInfo.cs
+C:\Proyectos\backend\aplicando_conceptos\Cqrs_Mediatr\MediatRDemo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Proyectos\backend\aplicando_conceptos\Cqrs_Mediatr\MediatRDemo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.dll
+C:\Proyectos\backend\aplicando_conceptos\Cqrs_Mediatr\MediatRDemo\DemoLibrary\obj\Debug\net6.0\refint\DemoLibrary.dll
+C:\Proyectos\backend\aplicando_conceptos\Cqrs_Mediatr\MediatRDemo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.pdb
+C:\Proyectos\backend\aplicando_conceptos\Cqrs_Mediatr\MediatRDemo\DemoLibrary\obj\Debug\net6.0\ref\DemoLibrary.dll

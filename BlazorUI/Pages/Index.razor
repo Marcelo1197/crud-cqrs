@@ -1,0 +1,26 @@
+﻿@page "/"
+@using DemoLibrary.DTOs
+@using DemoLibrary.Queries
+@inject MediatR.IMediator _mediator
+
+
+<div class="container-md">
+<PageTitle>Index</PageTitle>
+
+<h4 class="text-center">Lista de personas</h4>
+    <ul class="list-group">
+        @foreach (var person in persons)
+        {
+            <li class="list-group-item">@person.Name @person.LastName</li>
+        }
+    </ul>
+</div>
+
+@code {
+    List<PersonDTO> persons = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        persons = await _mediator.Send(new GetPersonListQuery());
+    }
+}
